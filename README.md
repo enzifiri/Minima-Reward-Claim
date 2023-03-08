@@ -1,3 +1,9 @@
+<details>
+
+<summary> 
+<h2> DİKKAT, BURADAKİ İŞLEMLERİ YARIN YAPICAZ ŞUAN YAPMAYIN.  
+</summary> </h2>
+
 <div align="center">
 
 # Minima Ödül Talebi & Cüzdan Yedeklemesi Nasıl yapılır?
@@ -130,3 +136,5 @@ vault
   </details>
   
 Seedinizi kaybederseniz ödülleriniz de gider arkadaşlar o yüzden güvenli bi şekilde sakladığınıza emin olun. Eğer yapamadığınız bi yer varsa kanalımıza gelip bize sorabilirsiniz. İşinize yaradıysa Sağ üstten Favori+Fork tuşuna basın.
+
+</details>
