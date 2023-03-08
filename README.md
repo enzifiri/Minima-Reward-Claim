@@ -1,7 +1,16 @@
 <div align="center">
 
 # Minima Ödül Talebi & Cüzdan Yedeklemesi Nasıl yapılır?
+  
+![MİNİMAKAPAK](https://user-images.githubusercontent.com/76253089/223840438-762b606d-45f5-4cfe-9d12-4f12e0f6e461.jpg)
 
+  <h3>
+  
+Herhangi bir sorunla karşılaşırsanız Telegram Sohbet Grubumuza bekleriz [Core Node Chat](https://t.me/corenodechat) <br>
+Diğer Rehberlerimize göz atmak için burayı ziyaret edebilirsiniz [Github Sayfamız](https://github.com/Core-Node-Team)
+  
+</h3>
+  
 </div>
 
 Yapmamız gerekenlerı kısaca özetliyorum. Öncelikle Minimum 2cpu 2 ram sunucu temin ediyoruz ve içine Minima Nodunu kuruyoruz. Sonrasında MiniDappimize girip IP Reward eklentisini oraya kuruyoruz. Sonrasında Terminale Write İzinini verip, Terminale giriyoruz. Oraya mds yazıp uid alıyoruz sonrasında vault yazıp cüzdan kelimelerimizi alıyoruz. Bu aşamadan sonra ödülleri claim etmek kaldı.
