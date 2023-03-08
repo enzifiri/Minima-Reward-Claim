@@ -96,4 +96,28 @@ vault
 </summary> </h2>
 
 ## Altta verdiğim Linke girip Incentive Program Rewards 2.15.1 MiniDappini indirmemiz gerekiyor. İşaretledigim yere basarak indirin.
+  <h2> Tıkla İndir https://minidapps.minima.global/ </h2>
+  
 ![image](https://user-images.githubusercontent.com/76253089/223836309-d043fdae-52fa-4ce4-9a1d-da1fb5e93a52.png)
+  
+## Sonrasında MiniDapp alanına tekrar dönelim. İşaretlediğim yerden az önce indirdiğimiz dosyayı sitenin içine atıp kurmamız gerekiyor. Sonrasında Install tusuna basıp uygulamayı kurun.
+  
+  ![image](https://user-images.githubusercontent.com/76253089/223836701-ac0d8fa9-c6d6-45b2-91a2-56db49236564.png)
+
+## Bu Dappe de Write iznini verelim. Sonrasında tıklayıp içine erişelim.
+  
+  ![image](https://user-images.githubusercontent.com/76253089/223837322-6f1b54db-2c60-4f43-9878-75fae7791ced.png)
+  
+## Buraya Bilgilerimizi girip Giriş yapmamız lazım.
+  
+  ![image](https://user-images.githubusercontent.com/76253089/223837676-7274cfbe-f6d8-4045-b81b-bc19896090f4.png)
+
+## Request Withdrawal tusuna bastıktan sonra ödüllerimizi claim etmiş olucaz. Hemen yansımayacak Dağıtımın 21 Mart civarı başlayacağını söylüyorlardı emin değilim. Biz duyuru olarak paylaşacağız.
+  
+  ![request](https://user-images.githubusercontent.com/76253089/223838011-251299aa-67bc-4524-a477-439460abd0bf.png)
+  
+## İşlemler Bu kadar...
+  
+  </details>
+  
+Seedinizi kaybederseniz ödülleriniz de gider arkadaşlar o yüzden güvenli bi şekilde sakladığınıza emin olun. Eğer yapamadığınız bi yer varsa kanalımıza gelip bize sorabilirsiniz. İşinize yaradıysa Sağ üstten Favori+Fork tuşuna basın.
