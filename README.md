@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # Minima Ödül Talebi & Cüzdan Yedeklemesi Nasıl yapılır?
   
@@ -13,7 +13,7 @@ Diğer Rehberlerimize göz atmak için burayı ziyaret edebilirsiniz [Github Say
   
 </div>
 
-Yapmamız gerekenlerı kısaca özetliyorum. Öncelikle Minimum 2cpu 2 ram sunucu temin ediyoruz ve içine Minima Nodunu kuruyoruz. Sonrasında MiniDappimize girip IP Reward eklentisini oraya kuruyoruz. Sonrasında Terminale Write İzinini verip, Terminale giriyoruz. Oraya mds yazıp uid alıyoruz sonrasında vault yazıp cüzdan kelimelerimizi alıyoruz. Bu aşamadan sonra ödülleri claim etmek kaldı.
+Yapmamız gerekenlerı kısaca özetliyorum. Öncelikle Minimum 2cpu 2 ram sunucu temin ediyoruz ve içine Minima Nodunu kuruyoruz. MiniDappe bağlanıyoruz. Orada Terminali bulup önce Write yetkisini veriyoruz sonra da terminale giriş yapıyoruz. "vault" komutu ile Cüzdan kelimelerimizi, "backup password:" komutu ile de node yedeğimizi alıyoruz. Sonrasında Ip Reward MDSini indirip Minidappe kuruyoruz ve cüzdanımıza ödülleri claim ediyoruz o kadar..
 
 <details>
 
@@ -159,3 +159,4 @@ Eğer sunucuya bağlanırken private key dosyası kullanmıyorsanız 2. adımı 
 Seedinizi kaybederseniz ödülleriniz de gider arkadaşlar o yüzden güvenli bi şekilde sakladığınıza emin olun. Eğer yapamadığınız bi yer varsa kanalımıza gelip bize sorabilirsiniz. İşinize yaradıysa Sağ üstten Favori+Fork tuşuna basın.
 
 
+![logo2WB](https://user-images.githubusercontent.com/76253089/224302609-79eb6f6c-c711-4251-9305-d5bb13d7452d.jpg)
