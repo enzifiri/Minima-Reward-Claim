@@ -1,9 +1,3 @@
-<details>
-
-<summary> 
-<h2> DİKKAT, BURADAKİ İŞLEMLERİ YARIN YAPICAZ ŞUAN YAPMAYIN.  
-</summary> </h2>
-
 <div align="center">
 
 # Minima Ödül Talebi & Cüzdan Yedeklemesi Nasıl yapılır?
@@ -100,14 +94,41 @@ vault
 ![image](https://user-images.githubusercontent.com/76253089/223834160-e8636b42-79da-41a5-a88b-4f0cdd97333a.png)
 
 
-## Cüzdan Yedekleme İşlemi Bu Kadardı. Şimdi Bu cüzdanımıza Ödüllerimizi Talep Edicez. Bir sonraki aşamaya geçin.
+## Cüzdan Yedekleme İşlemi Bu Kadardı. Şimdi Backup dosyamızı alalım. Bir sonraki aşamaya geçin.
 
 </details>
 
 <details>
 
 <summary> 
-<h2> 3) Ödülleri Cüzdanımıza Talep Etme
+<h2> 3) Backup alma ve Winscp Bağlantısı
+</summary> </h2>
+
+## Bu işlemi tekrardan terminal üzerinden yapıcaz. Terminale Write yetkisini verelim ve içine girelim. Sonrasında terminale "backup password:" yazalım (tırnak olmadan)
+
+![image](https://user-images.githubusercontent.com/76253089/224300080-ecc7beb7-1304-4a31-b3c6-e2ff09e4b140.png)
+
+## Şimdi oluşturulan dosyayı WİNSCP Programı ile sunucumuza bağlanıp kendi bilgisayarımıza alalım. Winscpyi indirip sunucunuza bağlanın
+
+ <h2>
+    [WinScp İndirme Linki](https://winscp.net/eng/download.php)
+  </h2>
+
+Eğer sunucuya bağlanırken private key dosyası kullanmıyorsanız 2. adımı es geçin.
+
+![image](https://user-images.githubusercontent.com/76253089/223129569-e26ca533-89e1-4a13-b210-2a58b58b8480.png)
+
+## Backup Dosyamız root/minimadocker9001 dizininde. Orayı bulup dosyamızı yedekleyelim
+
+![image](https://user-images.githubusercontent.com/76253089/224300991-f521d451-cc1b-431d-bb86-192e141a808c.png)
+
+## Sonraki Adıma Geçin
+</details>
+
+<details>
+
+<summary> 
+<h2> 4) Ödülleri Cüzdanımıza Talep Etme
 </summary> </h2>
 
 ## Altta verdiğim Linke girip Incentive Program Rewards 2.15.1 MiniDappini indirmemiz gerekiyor. İşaretledigim yere basarak indirin.
@@ -137,4 +158,4 @@ vault
   
 Seedinizi kaybederseniz ödülleriniz de gider arkadaşlar o yüzden güvenli bi şekilde sakladığınıza emin olun. Eğer yapamadığınız bi yer varsa kanalımıza gelip bize sorabilirsiniz. İşinize yaradıysa Sağ üstten Favori+Fork tuşuna basın.
 
-</details>
+
